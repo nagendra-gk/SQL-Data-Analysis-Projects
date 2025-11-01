@@ -27,14 +27,16 @@ All queries are written and executed in **MySQL Workbench** to build a solid fou
 - **CSV Files** – as data sources for both projects  
 
 ---
-
 ## 📁 Repository Structure
 
-SQL_Projects/
-│
-├── README.md
-├── Retail_Sales_Project/
-│   └── README.md
-└── Zepto_Inventory_Project/
-    └── README.md
+📦 SQL_Projects  
+┣ 📂 Retail_Sales_Analysis  
+┃ ┣ 📄 retail_sales_project.sql  
+┃ ┣ 📄 retail_sales_readme.md  
+┃ ┗ 📊 retail_sales_dataset.csv  
+┣ 📂 Zepto_Inventory_Analysis  
+┃ ┣ 📄 zepto_inventory_project.sql  
+┃ ┣ 📄 zepto_inventory_readme.md  
+┃ ┗ 📊 zepto_inventory_dataset.csv  
+┗ 📄 README.md
 
