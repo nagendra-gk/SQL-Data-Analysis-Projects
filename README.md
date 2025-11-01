@@ -45,4 +45,11 @@ All queries are written and executed in **MySQL Workbench** to build a solid fou
 │  [Zepto Inventory Project](https://github.com/nagendra-gk/SQL-Data-Analysis-Projects/tree/main/Zepto_Inventory_Project)
 
 └── 📄 README.md
-x
+## 📂 Projects Included
+
+1. [🛍️ Retail Sales Analysis](https://github.com/nagendra-gk/SQL-Data-Analysis-Projects/tree/main/Retail_Sales_Project)  
+   Learn how I analyzed retail sales data using SQL — from cleaning data to finding top-selling months and insights.
+
+2. [🛒 Zepto Inventory Data Insights](https://github.com/nagendra-gk/SQL-Data-Analysis-Projects/tree/main/Zepto_Inventory_Project)  
+   A project on inventory analysis — exploring pricing, discounts, and product performance.
+
